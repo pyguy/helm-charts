@@ -2,6 +2,17 @@ apiVersion: v1
 entries:
   flask-app:
   - apiVersion: v2
+    appVersion: 0.0.74
+    created: "2022-05-23T07:22:09.147018437Z"
+    description: A simple flask app helm chart
+    digest: 03a8f9340b8c73d414c46610352a5f50e2da7d96ee93c80a40344909926e4a83
+    icon: https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png
+    name: flask-app
+    type: application
+    urls:
+    - https://pyguy.github.io/helm-charts/flask-app-0.0.74.tgz
+    version: 0.0.74
+  - apiVersion: v2
     appVersion: 0.0.73
     created: "2022-05-23T07:21:49.789295733Z"
     description: A simple flask app helm chart
@@ -163,4 +174,4 @@ entries:
     urls:
     - https://pyguy.github.io/helm-chart/flask-app-0.0.56.tgz
     version: 0.0.56
-generated: "2022-05-23T07:21:49.78822652Z"
+generated: "2022-05-23T07:22:09.144908528Z"
